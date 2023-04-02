@@ -1,0 +1,626 @@
+# depslib dependency file v1.0
+1586327094 source:d:\c++\dungeon\dungeon\dungeon.cpp
+	"Dungeon.h"
+
+1586326232 d:\c++\dungeon\dungeon\dungeon.h
+	<iostream>
+	<string>
+	<vector>
+	<exception>
+	"Player.h"
+	"Monster.h"
+	"NPC.h"
+	"Room.h"
+	"Record.h"
+
+1586326232 d:\c++\dungeon\dungeon\player.h
+	<iostream>
+	<string>
+	<vector>
+	"GameCharacter.h"
+	"Room.h"
+	"Item.h"
+
+1586326232 d:\c++\dungeon\dungeon\gamecharacter.h
+	<iostream>
+	<string>
+	"Object.h"
+
+1586326232 d:\c++\dungeon\dungeon\object.h
+	<iostream>
+	<string>
+	<vector>
+
+1586326232 d:\c++\dungeon\dungeon\room.h
+	<iostream>
+	<string>
+	<vector>
+	"Object.h"
+
+1586326232 d:\c++\dungeon\dungeon\item.h
+	<iostream>
+	<string>
+	<vector>
+	"Object.h"
+	"Player.h"
+
+1586326232 d:\c++\dungeon\dungeon\monster.h
+	<iostream>
+	<string>
+	<vector>
+	"GameCharacter.h"
+	"Player.h"
+
+1586326232 d:\c++\dungeon\dungeon\npc.h
+	<iostream>
+	<string>
+	<vector>
+	"GameCharacter.h"
+	"Player.h"
+	"Item.h"
+
+1586412914 d:\c++\dungeon\dungeon\record.h
+	<iostream>
+	<fstream>
+	<vector>
+	<sstream>
+	<utility>
+	"Item.h"
+	"Monster.h"
+	"NPC.h"
+	"Player.h"
+
+1586326232 source:d:\c++\dungeon\dungeon\gamecharacter.cpp
+	"GameCharacter.h"
+
+1586326232 source:d:\c++\dungeon\dungeon\item.cpp
+	"Item.h"
+
+1586761373 source:d:\c++\dungeon\dungeon\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	"Dungeon.h"
+	"Item.h"
+	"Monster.h"
+	"NPC.h"
+	"Player.h"
+
+1586326232 source:d:\c++\dungeon\dungeon\monster.cpp
+	"Monster.h"
+
+1586760713 source:d:\c++\dungeon\dungeon\npc.cpp
+	"NPC.h"
+
+1586326232 source:d:\c++\dungeon\dungeon\object.cpp
+	"Object.h"
+
+1586326232 source:d:\c++\dungeon\dungeon\player.cpp
+	"Player.h"
+
+1586326232 source:d:\c++\dungeon\dungeon\record.cpp
+	"Record.h"
+
+1586326232 source:d:\c++\dungeon\dungeon\room.cpp
+	"Room.h"
+
+1648830448 source:d:\nycu_cs\110_spring\data structures and object-oriented programming\project\dungeon\dungeon.cpp
+	"Dungeon.h"
+
+1586699068 d:\nycu_cs\110_spring\data structures and object-oriented programming\project\dungeon\dungeon.h
+	<iostream>
+	<string>
+	<vector>
+	<exception>
+	"Player.h"
+	"Monster.h"
+	"NPC.h"
+	"Room.h"
+	"Record.h"
+
+1586726148 d:\nycu_cs\110_spring\data structures and object-oriented programming\project\dungeon\player.h
+	<iostream>
+	<string>
+	<vector>
+	"GameCharacter.h"
+	"Room.h"
+	"Item.h"
+
+1586699068 d:\nycu_cs\110_spring\data structures and object-oriented programming\project\dungeon\gamecharacter.h
+	<iostream>
+	<string>
+	"Object.h"
+
+1586699066 d:\nycu_cs\110_spring\data structures and object-oriented programming\project\dungeon\object.h
+	<iostream>
+	<string>
+	<vector>
+
+1586699066 d:\nycu_cs\110_spring\data structures and object-oriented programming\project\dungeon\room.h
+	<iostream>
+	<string>
+	<vector>
+	"Object.h"
+
+1586699068 d:\nycu_cs\110_spring\data structures and object-oriented programming\project\dungeon\item.h
+	<iostream>
+	<string>
+	<vector>
+	"Object.h"
+	"Player.h"
+
+1586699068 d:\nycu_cs\110_spring\data structures and object-oriented programming\project\dungeon\monster.h
+	<iostream>
+	<string>
+	<vector>
+	"GameCharacter.h"
+	"Player.h"
+
+1648830659 d:\nycu_cs\110_spring\data structures and object-oriented programming\project\dungeon\npc.h
+	<iostream>
+	<string>
+	<vector>
+	"GameCharacter.h"
+	"Player.h"
+	"Item.h"
+
+1586699066 d:\nycu_cs\110_spring\data structures and object-oriented programming\project\dungeon\record.h
+	<iostream>
+	<fstream>
+	<vector>
+	<sstream>
+	"Item.h"
+	"Monster.h"
+	"NPC.h"
+	"Player.h"
+
+1648830467 source:d:\nycu_cs\110_spring\data structures and object-oriented programming\project\dungeon\gamecharacter.cpp
+	"GameCharacter.h"
+
+1648830493 source:d:\nycu_cs\110_spring\data structures and object-oriented programming\project\dungeon\item.cpp
+	"Item.h"
+
+1586782620 source:d:\nycu_cs\110_spring\data structures and object-oriented programming\project\dungeon\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	"Dungeon.h"
+	"Item.h"
+	"Monster.h"
+	"NPC.h"
+	"Player.h"
+
+1648830514 source:d:\nycu_cs\110_spring\data structures and object-oriented programming\project\dungeon\monster.cpp
+	"Monster.h"
+
+1586782344 source:d:\nycu_cs\110_spring\data structures and object-oriented programming\project\dungeon\npc.cpp
+	"NPC.h"
+
+1648830546 source:d:\nycu_cs\110_spring\data structures and object-oriented programming\project\dungeon\object.cpp
+	"Object.h"
+
+1648830565 source:d:\nycu_cs\110_spring\data structures and object-oriented programming\project\dungeon\player.cpp
+	"Player.h"
+
+1586782384 source:d:\nycu_cs\110_spring\data structures and object-oriented programming\project\dungeon\record.cpp
+	"Record.h"
+
+1648830600 source:d:\nycu_cs\110_spring\data structures and object-oriented programming\project\dungeon\room.cpp
+	"Room.h"
+
+1650570673 source:d:\nycu_cs\110_spring\data structures and object-oriented programming\project\dungeon_110550093\dungeon.cpp
+	"Dungeon.h"
+
+1649964030 d:\nycu_cs\110_spring\data structures and object-oriented programming\project\dungeon_110550093\dungeon.h
+	<bits/stdc++.h>
+	"Player.h"
+	"Monster.h"
+	"NPC.h"
+	"Room.h"
+	"Record.h"
+
+1650262525 d:\nycu_cs\110_spring\data structures and object-oriented programming\project\dungeon_110550093\player.h
+	<iostream>
+	<string>
+	<vector>
+	<map>
+	"GameCharacter.h"
+	"Room.h"
+	"Item.h"
+
+1649012672 d:\nycu_cs\110_spring\data structures and object-oriented programming\project\dungeon_110550093\gamecharacter.h
+	<iostream>
+	<string>
+	"Object.h"
+
+1649012672 d:\nycu_cs\110_spring\data structures and object-oriented programming\project\dungeon_110550093\object.h
+	<iostream>
+	<string>
+	<vector>
+
+1649006611 d:\nycu_cs\110_spring\data structures and object-oriented programming\project\dungeon_110550093\room.h
+	<iostream>
+	<string>
+	<vector>
+	"Object.h"
+
+1649688100 d:\nycu_cs\110_spring\data structures and object-oriented programming\project\dungeon_110550093\item.h
+	<iostream>
+	<string>
+	<vector>
+	"Object.h"
+	"Player.h"
+
+1649677245 d:\nycu_cs\110_spring\data structures and object-oriented programming\project\dungeon_110550093\monster.h
+	<iostream>
+	<string>
+	<vector>
+	<Windows.h>
+	"GameCharacter.h"
+	"Player.h"
+
+1648914690 d:\nycu_cs\110_spring\data structures and object-oriented programming\project\dungeon_110550093\npc.h
+	<iostream>
+	<string>
+	<vector>
+	"GameCharacter.h"
+	"Player.h"
+	"Item.h"
+
+1650061690 d:\nycu_cs\110_spring\data structures and object-oriented programming\project\dungeon_110550093\record.h
+	<iostream>
+	<fstream>
+	<vector>
+	<sstream>
+	"Item.h"
+	"Monster.h"
+	"NPC.h"
+	"Player.h"
+
+1650337371 source:d:\nycu_cs\110_spring\data structures and object-oriented programming\project\dungeon_110550093\gamecharacter.cpp
+	"GameCharacter.h"
+
+1650141603 source:d:\nycu_cs\110_spring\data structures and object-oriented programming\project\dungeon_110550093\item.cpp
+	"Item.h"
+
+1650273859 source:d:\nycu_cs\110_spring\data structures and object-oriented programming\project\dungeon_110550093\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<Windows.h>
+	"Dungeon.h"
+	"Item.h"
+	"Monster.h"
+	"NPC.h"
+	"Player.h"
+
+1650470206 source:d:\nycu_cs\110_spring\data structures and object-oriented programming\project\dungeon_110550093\monster.cpp
+	"Monster.h"
+
+1650468556 source:d:\nycu_cs\110_spring\data structures and object-oriented programming\project\dungeon_110550093\npc.cpp
+	"NPC.h"
+
+1649012577 source:d:\nycu_cs\110_spring\data structures and object-oriented programming\project\dungeon_110550093\object.cpp
+	"Object.h"
+
+1650302692 source:d:\nycu_cs\110_spring\data structures and object-oriented programming\project\dungeon_110550093\player.cpp
+	"Player.h"
+
+1650338262 source:d:\nycu_cs\110_spring\data structures and object-oriented programming\project\dungeon_110550093\record.cpp
+	"Record.h"
+
+1650280167 source:d:\nycu_cs\110_spring\data structures and object-oriented programming\project\dungeon_110550093\room.cpp
+	"Room.h"
+
+1650570673 source:d:\nycu_cs\110_spring\data structures and object-oriented programming\project\hw1\dungeon_110550093\dungeon.cpp
+	"Dungeon.h"
+
+1649964030 d:\nycu_cs\110_spring\data structures and object-oriented programming\project\hw1\dungeon_110550093\dungeon.h
+	<bits/stdc++.h>
+	"Player.h"
+	"Monster.h"
+	"NPC.h"
+	"Room.h"
+	"Record.h"
+
+1650262525 d:\nycu_cs\110_spring\data structures and object-oriented programming\project\hw1\dungeon_110550093\player.h
+	<iostream>
+	<string>
+	<vector>
+	<map>
+	"GameCharacter.h"
+	"Room.h"
+	"Item.h"
+
+1649012672 d:\nycu_cs\110_spring\data structures and object-oriented programming\project\hw1\dungeon_110550093\gamecharacter.h
+	<iostream>
+	<string>
+	"Object.h"
+
+1649012672 d:\nycu_cs\110_spring\data structures and object-oriented programming\project\hw1\dungeon_110550093\object.h
+	<iostream>
+	<string>
+	<vector>
+
+1649006611 d:\nycu_cs\110_spring\data structures and object-oriented programming\project\hw1\dungeon_110550093\room.h
+	<iostream>
+	<string>
+	<vector>
+	"Object.h"
+
+1649688100 d:\nycu_cs\110_spring\data structures and object-oriented programming\project\hw1\dungeon_110550093\item.h
+	<iostream>
+	<string>
+	<vector>
+	"Object.h"
+	"Player.h"
+
+1649677245 d:\nycu_cs\110_spring\data structures and object-oriented programming\project\hw1\dungeon_110550093\monster.h
+	<iostream>
+	<string>
+	<vector>
+	<Windows.h>
+	"GameCharacter.h"
+	"Player.h"
+
+1648914690 d:\nycu_cs\110_spring\data structures and object-oriented programming\project\hw1\dungeon_110550093\npc.h
+	<iostream>
+	<string>
+	<vector>
+	"GameCharacter.h"
+	"Player.h"
+	"Item.h"
+
+1650061690 d:\nycu_cs\110_spring\data structures and object-oriented programming\project\hw1\dungeon_110550093\record.h
+	<iostream>
+	<fstream>
+	<vector>
+	<sstream>
+	"Item.h"
+	"Monster.h"
+	"NPC.h"
+	"Player.h"
+
+1650337371 source:d:\nycu_cs\110_spring\data structures and object-oriented programming\project\hw1\dungeon_110550093\gamecharacter.cpp
+	"GameCharacter.h"
+
+1650141603 source:d:\nycu_cs\110_spring\data structures and object-oriented programming\project\hw1\dungeon_110550093\item.cpp
+	"Item.h"
+
+1650273859 source:d:\nycu_cs\110_spring\data structures and object-oriented programming\project\hw1\dungeon_110550093\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<Windows.h>
+	"Dungeon.h"
+	"Item.h"
+	"Monster.h"
+	"NPC.h"
+	"Player.h"
+
+1650470206 source:d:\nycu_cs\110_spring\data structures and object-oriented programming\project\hw1\dungeon_110550093\monster.cpp
+	"Monster.h"
+
+1650468556 source:d:\nycu_cs\110_spring\data structures and object-oriented programming\project\hw1\dungeon_110550093\npc.cpp
+	"NPC.h"
+
+1649012577 source:d:\nycu_cs\110_spring\data structures and object-oriented programming\project\hw1\dungeon_110550093\object.cpp
+	"Object.h"
+
+1650302692 source:d:\nycu_cs\110_spring\data structures and object-oriented programming\project\hw1\dungeon_110550093\player.cpp
+	"Player.h"
+
+1650338262 source:d:\nycu_cs\110_spring\data structures and object-oriented programming\project\hw1\dungeon_110550093\record.cpp
+	"Record.h"
+
+1650280167 source:d:\nycu_cs\110_spring\data structures and object-oriented programming\project\hw1\dungeon_110550093\room.cpp
+	"Room.h"
+
+1650570673 source:d:\nycu cs\110_spring\ds and oop\hw1\dungeon_110550093\dungeon.cpp
+	"Dungeon.h"
+
+1649964030 d:\nycu cs\110_spring\ds and oop\hw1\dungeon_110550093\dungeon.h
+	<bits/stdc++.h>
+	"Player.h"
+	"Monster.h"
+	"NPC.h"
+	"Room.h"
+	"Record.h"
+
+1650262525 d:\nycu cs\110_spring\ds and oop\hw1\dungeon_110550093\player.h
+	<iostream>
+	<string>
+	<vector>
+	<map>
+	"GameCharacter.h"
+	"Room.h"
+	"Item.h"
+
+1649012672 d:\nycu cs\110_spring\ds and oop\hw1\dungeon_110550093\gamecharacter.h
+	<iostream>
+	<string>
+	"Object.h"
+
+1649012672 d:\nycu cs\110_spring\ds and oop\hw1\dungeon_110550093\object.h
+	<iostream>
+	<string>
+	<vector>
+
+1649006611 d:\nycu cs\110_spring\ds and oop\hw1\dungeon_110550093\room.h
+	<iostream>
+	<string>
+	<vector>
+	"Object.h"
+
+1649688100 d:\nycu cs\110_spring\ds and oop\hw1\dungeon_110550093\item.h
+	<iostream>
+	<string>
+	<vector>
+	"Object.h"
+	"Player.h"
+
+1649677245 d:\nycu cs\110_spring\ds and oop\hw1\dungeon_110550093\monster.h
+	<iostream>
+	<string>
+	<vector>
+	<Windows.h>
+	"GameCharacter.h"
+	"Player.h"
+
+1648914690 d:\nycu cs\110_spring\ds and oop\hw1\dungeon_110550093\npc.h
+	<iostream>
+	<string>
+	<vector>
+	"GameCharacter.h"
+	"Player.h"
+	"Item.h"
+
+1650061690 d:\nycu cs\110_spring\ds and oop\hw1\dungeon_110550093\record.h
+	<iostream>
+	<fstream>
+	<vector>
+	<sstream>
+	"Item.h"
+	"Monster.h"
+	"NPC.h"
+	"Player.h"
+
+1650337371 source:d:\nycu cs\110_spring\ds and oop\hw1\dungeon_110550093\gamecharacter.cpp
+	"GameCharacter.h"
+
+1650141603 source:d:\nycu cs\110_spring\ds and oop\hw1\dungeon_110550093\item.cpp
+	"Item.h"
+
+1650273859 source:d:\nycu cs\110_spring\ds and oop\hw1\dungeon_110550093\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<Windows.h>
+	"Dungeon.h"
+	"Item.h"
+	"Monster.h"
+	"NPC.h"
+	"Player.h"
+
+1650470206 source:d:\nycu cs\110_spring\ds and oop\hw1\dungeon_110550093\monster.cpp
+	"Monster.h"
+
+1650468556 source:d:\nycu cs\110_spring\ds and oop\hw1\dungeon_110550093\npc.cpp
+	"NPC.h"
+
+1649012577 source:d:\nycu cs\110_spring\ds and oop\hw1\dungeon_110550093\object.cpp
+	"Object.h"
+
+1650302692 source:d:\nycu cs\110_spring\ds and oop\hw1\dungeon_110550093\player.cpp
+	"Player.h"
+
+1650338262 source:d:\nycu cs\110_spring\ds and oop\hw1\dungeon_110550093\record.cpp
+	"Record.h"
+
+1650280167 source:d:\nycu cs\110_spring\ds and oop\hw1\dungeon_110550093\room.cpp
+	"Room.h"
+
+1650570673 source:d:\nycu cs\github\ds-and-oop-hw1\dungeon_110550093\dungeon.cpp
+	"Dungeon.h"
+
+1649964030 d:\nycu cs\github\ds-and-oop-hw1\dungeon_110550093\dungeon.h
+	<bits/stdc++.h>
+	"Player.h"
+	"Monster.h"
+	"NPC.h"
+	"Room.h"
+	"Record.h"
+
+1650262525 d:\nycu cs\github\ds-and-oop-hw1\dungeon_110550093\player.h
+	<iostream>
+	<string>
+	<vector>
+	<map>
+	"GameCharacter.h"
+	"Room.h"
+	"Item.h"
+
+1649012672 d:\nycu cs\github\ds-and-oop-hw1\dungeon_110550093\gamecharacter.h
+	<iostream>
+	<string>
+	"Object.h"
+
+1649012672 d:\nycu cs\github\ds-and-oop-hw1\dungeon_110550093\object.h
+	<iostream>
+	<string>
+	<vector>
+
+1649006611 d:\nycu cs\github\ds-and-oop-hw1\dungeon_110550093\room.h
+	<iostream>
+	<string>
+	<vector>
+	"Object.h"
+
+1649688100 d:\nycu cs\github\ds-and-oop-hw1\dungeon_110550093\item.h
+	<iostream>
+	<string>
+	<vector>
+	"Object.h"
+	"Player.h"
+
+1649677245 d:\nycu cs\github\ds-and-oop-hw1\dungeon_110550093\monster.h
+	<iostream>
+	<string>
+	<vector>
+	<Windows.h>
+	"GameCharacter.h"
+	"Player.h"
+
+1648914690 d:\nycu cs\github\ds-and-oop-hw1\dungeon_110550093\npc.h
+	<iostream>
+	<string>
+	<vector>
+	"GameCharacter.h"
+	"Player.h"
+	"Item.h"
+
+1650061690 d:\nycu cs\github\ds-and-oop-hw1\dungeon_110550093\record.h
+	<iostream>
+	<fstream>
+	<vector>
+	<sstream>
+	"Item.h"
+	"Monster.h"
+	"NPC.h"
+	"Player.h"
+
+1650337371 source:d:\nycu cs\github\ds-and-oop-hw1\dungeon_110550093\gamecharacter.cpp
+	"GameCharacter.h"
+
+1650141603 source:d:\nycu cs\github\ds-and-oop-hw1\dungeon_110550093\item.cpp
+	"Item.h"
+
+1650273859 source:d:\nycu cs\github\ds-and-oop-hw1\dungeon_110550093\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<Windows.h>
+	"Dungeon.h"
+	"Item.h"
+	"Monster.h"
+	"NPC.h"
+	"Player.h"
+
+1650470206 source:d:\nycu cs\github\ds-and-oop-hw1\dungeon_110550093\monster.cpp
+	"Monster.h"
+
+1650468556 source:d:\nycu cs\github\ds-and-oop-hw1\dungeon_110550093\npc.cpp
+	"NPC.h"
+
+1649012577 source:d:\nycu cs\github\ds-and-oop-hw1\dungeon_110550093\object.cpp
+	"Object.h"
+
+1650302692 source:d:\nycu cs\github\ds-and-oop-hw1\dungeon_110550093\player.cpp
+	"Player.h"
+
+1650338262 source:d:\nycu cs\github\ds-and-oop-hw1\dungeon_110550093\record.cpp
+	"Record.h"
+
+1650280167 source:d:\nycu cs\github\ds-and-oop-hw1\dungeon_110550093\room.cpp
+	"Room.h"
+
